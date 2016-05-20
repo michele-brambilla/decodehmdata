@@ -1,0 +1,13 @@
+# Compiled Object files
+*.o
+*.pyc
+
+# Emacs history
+*~
+
+# Windows image file caches
+Thumbs.db
+
+
+# Mac OS X Finder
+.DS_Store
