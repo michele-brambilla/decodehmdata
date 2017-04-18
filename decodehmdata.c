@@ -6,6 +6,7 @@
 * Michele Brambilla, April 2016
 */
 #include <stdio.h>
+#include <stdlib.h>
 
 int main(int argc, char *argv[]){
   FILE *fd = NULL;
